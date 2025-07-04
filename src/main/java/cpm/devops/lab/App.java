@@ -7,7 +7,8 @@ package cpm.devops.lab;
 public class App 
 {
     public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+   {
+\\ Trigger CI Trigger test
+      System.out.println( "Hello World!" );
     }
 }
